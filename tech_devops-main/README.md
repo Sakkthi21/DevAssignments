@@ -240,22 +240,3 @@ sudo systemctl restart techeazy-app.service
 3. **Enable VPC flow logs** and monitoring
 4. **Implement proper IAM roles** and policies
 5. **Use AWS Systems Manager** instead of SSH keys
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test locally
-5. Submit a pull request
-
-## 📄 License
-
-This project is part of the TechEazy DevOps training assignment.
-
----
-
-**Need Help?** 
-- Check the [Troubleshooting](#troubleshooting) section
-- Review AWS CloudWatch logs for deployment issues
-- Verify all prerequisites are installed and configured
